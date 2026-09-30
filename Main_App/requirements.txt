@@ -6,3 +6,4 @@ pandas
 groq>=0.12.0
 gtts==2.5.3
 python-dotenv==1.2.2
+opencv-python-headless
